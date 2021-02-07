@@ -6,11 +6,11 @@ function getPrice(guests){
      if (guests > 200) {
         cost = '$20,000';
     }
-    else if (guest <= 200) {
+    else if (guest > 100) {
         cost = '$15,000';
     }
 
-    if (guests <= 100){
+    else if (guests > 50){
         cost = '10,000';
     }
     else (cost = '4,000');

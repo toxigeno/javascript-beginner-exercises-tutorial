@@ -188,7 +188,7 @@
         {
             "slug": "12-Your-first-if",
             "title": "12-Your-first-if",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Your-first-if",
             "translations": [
                 "es",

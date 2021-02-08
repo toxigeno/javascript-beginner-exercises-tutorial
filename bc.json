@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://scarlet-crocodile-0miqn7fm.ws-us03.gitpod.io",
+    "address": "https://copper-capybara-hkycj1zg.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -221,7 +221,7 @@
         {
             "slug": "15-Random-numbers",
             "title": "15-Random-numbers",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Random-numbers",
             "translations": [
                 "es",

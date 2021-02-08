@@ -232,7 +232,7 @@
         {
             "slug": "16-Rand-from-one-to-six",
             "title": "16-Rand-from-one-to-six",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Rand-from-one-to-six",
             "translations": [
                 "es",
@@ -243,7 +243,7 @@
         {
             "slug": "17-Your-first-loop",
             "title": "17-Your-first-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Your-first-loop",
             "translations": [
                 "es",

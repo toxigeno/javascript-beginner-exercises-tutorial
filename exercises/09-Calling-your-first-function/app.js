@@ -4,5 +4,5 @@ function isOdd(myNumber)
 }
 
 // Your code below
- var odd = isOdd (45345,2);
+ var odd = isOdd (45345);
  console.log(odd)

@@ -12,14 +12,14 @@ function getColor(selection)
             colorname = blue;
             break;
 	    default:
-	    	return true;  //returns false because the user picked an unavailable color             
+	    	return false;  //returns false because the user picked an unavailable color             
 	}
 }
 
 var colorname = prompt('What color do you want?');
-var isAvailable = getColor(colorname);
+var isAvailable = getcolor(colorname);
 
 if(isAvailable)
 	console.log('Good news! That color is available');
-else (false)
+else
 	console.log('We are sorry, that color is not available');

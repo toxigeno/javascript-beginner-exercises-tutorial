@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://peach-dog-5dopvrin.ws-us03.gitpod.io",
+    "address": "https://apricot-sole-ulqivh2g.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -210,7 +210,7 @@
         {
             "slug": "14-Your-first-switch",
             "title": "14-Your-first-switch",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Your-first-switch",
             "translations": [
                 "es",
@@ -276,7 +276,7 @@
         {
             "slug": "20-Random-colors-loop",
             "title": "20-Random-colors-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Random-colors-loop",
             "translations": [
                 "es",

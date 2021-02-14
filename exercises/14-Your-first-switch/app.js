@@ -1,25 +1,27 @@
 function getColor(selection)
 {
-	switch(selection){
-        // Add more options here
-        case 0:
-            colorname = red;
+    switch(selection){
+        case 'red': 
+            return true;
             break;
-        case 1:
-            colorname = green;
+        case 'green': 
+            return true;
             break;
-        case 2:
-            colorname = blue;
+        case 'blue': 
+            return true;
             break;
-	    default:
-	    	return false;  //returns false because the user picked an unavailable color             
-	}
+        default:
+            return false;  //returns false because the user picked an unavailable color             
+    }
 }
 
 var colorname = prompt('What color do you want?');
-var isAvailable = getcolor(colorname);
+// var isAvailable = getColor(colorname.trim());
+var isAvailable = getColor(colorname);
 
 if(isAvailable)
-	console.log('Good news! That color is available');
+    console.log('Good news! That color is available');
 else
-	console.log('We are sorry, that color is not available');
+    console.log('We are sorry, that color is not available');
+
+    
